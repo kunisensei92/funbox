@@ -46,9 +46,6 @@
 				}
 			}
 		},
-		beforeMount() {
-			
-		}
 	}
 </script>
 
